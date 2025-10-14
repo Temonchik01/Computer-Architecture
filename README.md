@@ -1,4 +1,1 @@
-# Calculator-LinuxCourse
-# Calculator-LinuxCourse
-# Calculator-LinuxCourse
-# Calculator-LinuxCourse
+# GNU-Make-for-Linux
