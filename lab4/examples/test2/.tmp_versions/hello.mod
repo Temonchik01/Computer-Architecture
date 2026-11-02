@@ -1,0 +1,3 @@
+/home/tymofii/Documents/Projects/LabsUniversity/KPI/АрхКомп/lab4/examples/test2/hello.ko
+/home/tymofii/Documents/Projects/LabsUniversity/KPI/АрхКомп/lab4/examples/test2/hello.o
+
